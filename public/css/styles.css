@@ -7,7 +7,8 @@ body {
 
     display: flex;
     flex-direction: column;
-    min-height: 100vh
+    min-height: 100vh;
+    background: linear-gradient(to right, #9c27b0,#8ecdff);
 }
 
 .main-content {
@@ -15,7 +16,7 @@ body {
 }
 
 footer {
-    color: #888888;
+    color: black;
     border-top: 1px solid #eeeeee;
     margin-top: 16px;
     padding: 16px 0;
@@ -32,7 +33,7 @@ h1 {
 }
 
 header a {
-    color: #888888;
+    color: black;
     margin-right: 16px;
     text-decoration: none;
 }
